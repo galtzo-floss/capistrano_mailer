@@ -1,4 +1,4 @@
-# CapistranoMailer
+# 📬 CapistranoMailer
 
 A Gem For Capistrano Deployment Email Notification
 
